@@ -10,7 +10,9 @@
     "watch-poll": "npm run watch -- --watch-poll"
   },
   "dependencies": {
-    "vuetify": "^2.4.5"
+    "vue-router": "^3.5.1",
+    "vuetify": "^2.4.5",
+    "vuex": "^3.6.2"
   },
   "devDependencies": {
     "axios": "^0.21.1",

@@ -41907,7 +41907,7 @@ if (document.querySelector("#app") !== null) {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/images/logo.svg?63a7d78d42c33b94fc7b957524795cac";
+module.exports = "/images/logo.svg?07d1e22e8cddd99a53037dc510221b7b";
 
 /***/ }),
 
@@ -42120,8 +42120,8 @@ vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vuetify_lib_framework__WEBPACK_IM
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\laragon\www\assessments\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\laragon\www\assessments\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\BENJA\IdeaProjects\templateLaravelVuetify\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\BENJA\IdeaProjects\templateLaravelVuetify\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
